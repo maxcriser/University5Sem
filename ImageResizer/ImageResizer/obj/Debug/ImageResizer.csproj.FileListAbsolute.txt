@@ -1,0 +1,10 @@
+D:\GitHubProjects\University5Sem\ImageResizer\ImageResizer\bin\Debug\ImageResizer.exe.config
+D:\GitHubProjects\University5Sem\ImageResizer\ImageResizer\bin\Debug\ImageResizer.exe
+D:\GitHubProjects\University5Sem\ImageResizer\ImageResizer\bin\Debug\ImageResizer.pdb
+D:\GitHubProjects\University5Sem\ImageResizer\ImageResizer\obj\Debug\ImageResizer.csprojResolveAssemblyReference.cache
+D:\GitHubProjects\University5Sem\ImageResizer\ImageResizer\obj\Debug\ImageResizer.Form1.resources
+D:\GitHubProjects\University5Sem\ImageResizer\ImageResizer\obj\Debug\ImageResizer.Properties.Resources.resources
+D:\GitHubProjects\University5Sem\ImageResizer\ImageResizer\obj\Debug\ImageResizer.csproj.GenerateResource.Cache
+D:\GitHubProjects\University5Sem\ImageResizer\ImageResizer\obj\Debug\ImageResizer.csproj.CoreCompileInputs.cache
+D:\GitHubProjects\University5Sem\ImageResizer\ImageResizer\obj\Debug\ImageResizer.exe
+D:\GitHubProjects\University5Sem\ImageResizer\ImageResizer\obj\Debug\ImageResizer.pdb
