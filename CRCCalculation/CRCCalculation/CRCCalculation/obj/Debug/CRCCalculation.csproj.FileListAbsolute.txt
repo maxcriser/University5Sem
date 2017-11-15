@@ -1,0 +1,10 @@
+D:\GitHubProjects\University5Sem\CRCCalculation\CRCCalculation\CRCCalculation\bin\Debug\CRCCalculation.exe.config
+D:\GitHubProjects\University5Sem\CRCCalculation\CRCCalculation\CRCCalculation\bin\Debug\CRCCalculation.exe
+D:\GitHubProjects\University5Sem\CRCCalculation\CRCCalculation\CRCCalculation\bin\Debug\CRCCalculation.pdb
+D:\GitHubProjects\University5Sem\CRCCalculation\CRCCalculation\CRCCalculation\obj\Debug\CRCCalculation.csprojResolveAssemblyReference.cache
+D:\GitHubProjects\University5Sem\CRCCalculation\CRCCalculation\CRCCalculation\obj\Debug\CRCCalculation.Form1.resources
+D:\GitHubProjects\University5Sem\CRCCalculation\CRCCalculation\CRCCalculation\obj\Debug\CRCCalculation.Properties.Resources.resources
+D:\GitHubProjects\University5Sem\CRCCalculation\CRCCalculation\CRCCalculation\obj\Debug\CRCCalculation.csproj.GenerateResource.Cache
+D:\GitHubProjects\University5Sem\CRCCalculation\CRCCalculation\CRCCalculation\obj\Debug\CRCCalculation.csproj.CoreCompileInputs.cache
+D:\GitHubProjects\University5Sem\CRCCalculation\CRCCalculation\CRCCalculation\obj\Debug\CRCCalculation.exe
+D:\GitHubProjects\University5Sem\CRCCalculation\CRCCalculation\CRCCalculation\obj\Debug\CRCCalculation.pdb
