@@ -28,7 +28,8 @@ namespace CRCCalculation
             if (isCorrectCrc(SAVED_FILE_NAME_SELF_CHECK, getFilesArrayByDirectory(EXE_FILE_DIRECTORY)))
             {
                 showToast("Selfcheck is correct");
-            } else
+            }
+            else
             {
                 showToast("Selfxcheck is incorrect");
             }
@@ -36,7 +37,7 @@ namespace CRCCalculation
 
         private string[] getFilesArrayByDirectory(string pDirectory)
         {
-                return Directory.GetFiles(pDirectory, "*.*", System.IO.SearchOption.AllDirectories);
+            return Directory.GetFiles(pDirectory, "*.*", System.IO.SearchOption.AllDirectories);
         }
 
         private string[] getFilesArray()
@@ -50,7 +51,8 @@ namespace CRCCalculation
                     selectedFolderTextView.Text = fbd.SelectedPath;
 
                     return Directory.GetFiles(fbd.SelectedPath, "*.*", System.IO.SearchOption.AllDirectories);
-                } else
+                }
+                else
                 {
                     return null;
                 }
@@ -62,13 +64,13 @@ namespace CRCCalculation
             Crc32 crc32 = new Crc32();
             String hash = String.Empty;
 
-            // if we use it for project we hav exception
             try
             {
-                    foreach (byte b in crc32.ComputeHash(File.ReadAllBytes(pFileName))) hash += b.ToString("x2").ToLower();
-            } catch
+                foreach (byte b in crc32.ComputeHash(File.ReadAllBytes(pFileName))) hash += b.ToString("x2").ToLower();
+            }
+            catch
             {
-
+                // if we use it for project we hav exception
             }
 
             return hash;
@@ -100,7 +102,8 @@ namespace CRCCalculation
             try
             {
                 File.WriteAllText(path, String.Empty);
-            } catch
+            }
+            catch
             {
                 // nothing, its just first creation
             }
@@ -133,7 +136,7 @@ namespace CRCCalculation
             return result;
         }
 
-        private Boolean isCorrectCrc(string pDirectory, string[] pFiles) 
+        private Boolean isCorrectCrc(string pDirectory, string[] pFiles)
         {
             Dictionary<string, string> currentCompareVersion = getCrcOfDirectory(pFiles);
             Dictionary<string, string> savedCompareVersion = getSavedCrcStatus(pDirectory);
@@ -151,7 +154,8 @@ namespace CRCCalculation
             if (isCorrectCrc(SAVED_FILE_NAME, System.IO.Directory.GetFiles(selectedFolderTextView.Text, "*.*", System.IO.SearchOption.AllDirectories)))
             {
                 showToast("Correct");
-            } else
+            }
+            else
             {
                 showToast("Incorrect");
             }

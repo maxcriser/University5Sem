@@ -1,0 +1,10 @@
+D:\GitHubProjects\University5Sem\CryptHash\HashCrypt\HashCrypt\obj\Debug\HashCrypt.csprojResolveAssemblyReference.cache
+D:\GitHubProjects\University5Sem\CryptHash\HashCrypt\HashCrypt\obj\Debug\HashCrypt.Form1.resources
+D:\GitHubProjects\University5Sem\CryptHash\HashCrypt\HashCrypt\obj\Debug\HashCrypt.Properties.Resources.resources
+D:\GitHubProjects\University5Sem\CryptHash\HashCrypt\HashCrypt\obj\Debug\HashCrypt.csproj.GenerateResource.Cache
+D:\GitHubProjects\University5Sem\CryptHash\HashCrypt\HashCrypt\obj\Debug\HashCrypt.csproj.CoreCompileInputs.cache
+D:\GitHubProjects\University5Sem\CryptHash\HashCrypt\HashCrypt\bin\Debug\HashCrypt.exe.config
+D:\GitHubProjects\University5Sem\CryptHash\HashCrypt\HashCrypt\bin\Debug\HashCrypt.exe
+D:\GitHubProjects\University5Sem\CryptHash\HashCrypt\HashCrypt\bin\Debug\HashCrypt.pdb
+D:\GitHubProjects\University5Sem\CryptHash\HashCrypt\HashCrypt\obj\Debug\HashCrypt.exe
+D:\GitHubProjects\University5Sem\CryptHash\HashCrypt\HashCrypt\obj\Debug\HashCrypt.pdb
